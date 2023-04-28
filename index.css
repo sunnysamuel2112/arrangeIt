@@ -1,0 +1,25 @@
+button{
+    background-color: rgb(171, 171, 171);
+    block-size: 40px;
+    border-radius: 25px;
+    margin: 20px;
+    padding-top: 90px ;
+    height: 150px;
+    width: 150px;
+
+
+    
+}
+
+
+#nav {
+    text-align: center;
+    background-color: bisque;
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-left: 10px solid red;
+    height: 150px;
+    width: 100%;
+
+}
+
